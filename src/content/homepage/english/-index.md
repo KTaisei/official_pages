@@ -3,7 +3,7 @@
 banner:
   title: "Kawakami Taisei webenginer"
   content: "特技 : バクしか出ないコードを書くこと"
-  image: "/images/banner.png"
+  image: "/images/Designer.png"
   button:
     enable: true
     label: "twitter ( 旧:X )"
@@ -11,16 +11,14 @@ banner:
 
 # Features
 features:
-  - title: "Ce qui est inclus dans Astroplate"
-    image: "/images/service-1.png"
-    content: "Astroplate est un modèle de démarrage complet qui inclut tout ce dont vous avez besoin pour démarrer votre projet Astro. Ce qui est inclus dans Astroplate"
+  - title: "My Skil(Programming)"
+    image: "/images/programing.png"
+    content: "使えるプログラミング言語なんてほとんどないけど、一応書いておく"
     bulletpoints:
-      - "10+ pages pré-construites"
-      - "Score Google Pagespeed de 95+"
-      - "Construit avec Astro et TailwindCSS pour un style facile et personnalisable"
-      - "Entièrement responsive sur tous les appareils"
-      - "Optimisé pour le référencement pour de meilleurs classements dans les moteurs de recherche"
-      - "**Open-source et gratuit** pour une utilisation personnelle et commerciale"
+      - "Python"
+      - "HTML"
+      - "CSS"
+      - "Javascript (基本のキ)"
     button:
       enable: false
       label: "Commencer maintenant"
