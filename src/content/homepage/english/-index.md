@@ -24,16 +24,16 @@ features:
       label: "Commencer maintenant"
       link: "#"
 
-  - title: "Découvrez les fonctionnalités clés d'Astro"
+  - title: "Achievements"
     image: "/images/service-2.png"
-    content: "Astro est un framework web tout-en-un pour construire des sites web rapides et centrés sur le contenu. Il offre une gamme de fonctionnalités excitantes pour les développeurs et les créateurs de sites web. Certaines des fonctionnalités clés sont :"
+    content: "今まで開発してきたwebサービスや、プログラムを一部紹介 :"
     bulletpoints:
-      - "Zéro JS, par défaut : Aucun surcoût d'exécution JavaScript pour vous ralentir."
-      - "Personnalisable : Tailwind, MDX et plus de 100 autres intégrations au choix."
-      - "Agnostique à l'UI : Supporte React, Preact, Svelte, Vue, Solid, Lit et plus encore."
+      - "スケジュール作成システム"
+      - "Our Birthday"
+      - "伊川谷キタク部 公式ホームページ"
     button:
       enable: true
-      label: "Commencer maintenant"
+      label: "詳しくはこちら"
       link: "https://github.com/zeon-studio/astroplate"
 
   - title: "Les principales raisons de choisir Astro pour votre prochain projet"
