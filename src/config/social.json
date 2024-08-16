@@ -14,11 +14,6 @@
       "name": "github",
       "icon": "FaGithub",
       "link": "https://github.com/KTaisei"
-    },
-    {
-      "name": "linkedin",
-      "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/"
     }
   ]
 }
