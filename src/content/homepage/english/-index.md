@@ -26,7 +26,7 @@ features:
 
   - title: "Achievements"
     image: "/images/service-2.png"
-    content: "今まで開発してきたwebサービスや、プログラムを一部紹介 :"
+    content: "今まで開発してきたwebサービスや、プログラムを一部紹介 "
     bulletpoints:
       - "スケジュール作成システム"
       - "Our Birthday"
