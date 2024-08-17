@@ -36,7 +36,7 @@ features:
       label: "詳しくはこちら"
       link: "https://github.com/zeon-studio/astroplate"
 
-  - title: "Les principales raisons de choisir Astro pour votre prochain projet"
+  - title: "My hobby"
     image: "/images/service-3.png"
     content: "Avec Astro, vous pouvez construire des sites web modernes et centrés sur le contenu sans sacrifier la performance ou la facilité d'utilisation."
     bulletpoints:
