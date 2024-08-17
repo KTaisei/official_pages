@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Kawakami Taisei webenginer"
+  title: "Kawakami Taisei programmer"
   content: "特技 : バクしか出ないコードを書くこと"
   image: "/images/Designer.png"
   button:
