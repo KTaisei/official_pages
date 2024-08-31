@@ -38,7 +38,7 @@ features:
 
   - title: "My hobby"
     image: "/images/service-3.png"
-    content: "Avec Astro, vous pouvez construire des sites web modernes et centrés sur le contenu sans sacrifier la performance ou la facilité d'utilisation."
+    content: "隠キャで陽気なオタク"
     bulletpoints:
       - "Charge instantanée des sites statiques pour une meilleure expérience utilisateur et SEO."
       - "Syntaxe intuitive et support pour les frameworks populaires rendent l'apprentissage et l'utilisation d'Astro un jeu d'enfant."
