@@ -28,7 +28,7 @@ features:
     image: "/images/service-2.png"
     content: "今まで開発してきたwebサービスや、プログラムを一部紹介 "
     bulletpoints:
-      - "スケジュール作成システム"
+      - "スケジュール自動作成システム"
       - "Our Birthday"
       - "伊川谷キタク部 公式ホームページ"
     button:
