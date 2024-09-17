@@ -25,7 +25,7 @@ features:
       link: "#"
 
   - title: "Achievements"
-    image: "/images/service-2.png"
+    image: "/images/development.png"
     content: "今まで開発してきたwebサービスや、プログラムを一部紹介 "
     bulletpoints:
       - "スケジュール自動作成システム"
@@ -37,13 +37,13 @@ features:
       link: "https://github.com/zeon-studio/astroplate"
 
   - title: "My hobby"
-    image: "/images/service-3.png"
+    image: "/images/hobby.png"
     content: "隠キャで陽気なオタク"
     bulletpoints:
-      - "Charge instantanée des sites statiques pour une meilleure expérience utilisateur et SEO."
-      - "Syntaxe intuitive et support pour les frameworks populaires rendent l'apprentissage et l'utilisation d'Astro un jeu d'enfant."
-      - "Utilisez n'importe quelle bibliothèque ou framework front-end, ou construisez des composants personnalisés, pour tout type de projet."
-      - "Construit sur une technologie de pointe pour garder vos projets à jour avec les dernières normes web."
+      - "アニメ鑑賞、漫画"
+      - "睡眠"
+      - "ただひたすらに意味のないプログラムを書くこと"
+      - "音楽を聴くこと"
     button:
       enable: false
       label: ""
